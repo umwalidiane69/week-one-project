@@ -1,27 +1,24 @@
 # week-one-project
+
 # Umwali Diane
-
-
-## My portfolio-project
-
-
-
 
 
 ## Installation requirement
 
 
 
-
+* Use Laptop
+* Visual studio Code
 
 
 ## Any Help needed 
 
 ## contact me
 
-* 
-* 
-* 
+* tel no: 0784074863
+
+* E-mail: umwalidiane69@gmail.com
+
 
 
 ### Click link below
